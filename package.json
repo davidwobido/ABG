@@ -27,6 +27,7 @@
     "*.{js,css,md}": "prettier --write"
   },
   "dependencies": {
+    "@frctl/fractal": "^1.5.13",
     "stylelint-selector-bem-pattern": "^2.1.1"
   }
 }
